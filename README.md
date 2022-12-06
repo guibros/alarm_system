@@ -1,6 +1,6 @@
 # projetalarme_python
 
-Raspberry pi GPIO connected alarm system, with email connection
+Raspberry pi GPIO connected alarm system, with email connection and GUI
 
 
 
